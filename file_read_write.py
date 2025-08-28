@@ -1,5 +1,3 @@
-# File Read & Write Challenge
-
 def modify_content(content):
     # Example modification: convert text to uppercase
     return content.upper()
